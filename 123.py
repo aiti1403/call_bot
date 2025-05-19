@@ -12,7 +12,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.storage.memory import MemoryStorage
 
 # Конфигурация
-BOT_TOKEN = "7894090680:AAHHbmjerlGd9qTTL13yGmFzJBf9hdgn9sY"  # Замените на свой токен
+BOT_TOKEN = "8044986052:AAHVCCcYEZRNzI5VpmIsPyW3bTu9avSvszs"  # Замените на свой токен
 ADMIN_IDS = [519206919, 6377272527, 1252744817, 641425229, 5704933313,  5028852658]  # Замените на ID администраторов (ПДО, начальники смен)
 
 # Настройка логирования
